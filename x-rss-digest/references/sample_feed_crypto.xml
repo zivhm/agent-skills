@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>cryptobeta</title>
+    <link>https://nitter.example/cryptobeta</link>
+    <description>Sample crypto feed</description>
+    <item>
+      <title>BTC holding above the prior breakout zone while ETH catches up on higher volume.</title>
+      <link>https://nitter.example/cryptobeta/status/2002</link>
+      <guid>2002</guid>
+      <pubDate>Wed, 11 Mar 2026 12:15:00 GMT</pubDate>
+      <description><![CDATA[<p>BTC holding above the prior breakout zone while ETH catches up on higher volume. The key question is whether funding stays contained.</p>]]></description>
+    </item>
+    <item>
+      <title>@someone yes</title>
+      <link>https://nitter.example/cryptobeta/status/2001</link>
+      <guid>2001</guid>
+      <pubDate>Wed, 11 Mar 2026 11:15:00 GMT</pubDate>
+      <description><![CDATA[<p>@someone yes</p>]]></description>
+    </item>
+  </channel>
+</rss>

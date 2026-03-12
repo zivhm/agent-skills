@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>macroalpha</title>
+    <link>https://nitter.example/macroalpha</link>
+    <description>Sample macro feed</description>
+    <item>
+      <title>US 10Y yield back above 4.20%. Dollar firm after inflation data.</title>
+      <link>https://nitter.example/macroalpha/status/1001</link>
+      <guid>1001</guid>
+      <pubDate>Wed, 11 Mar 2026 12:00:00 GMT</pubDate>
+      <description><![CDATA[<p>US 10Y yield back above 4.20%. Dollar firm after inflation data. Watching whether equities fade into the US session.</p>]]></description>
+    </item>
+    <item>
+      <title>gm everyone</title>
+      <link>https://nitter.example/macroalpha/status/1000</link>
+      <guid>1000</guid>
+      <pubDate>Wed, 11 Mar 2026 10:00:00 GMT</pubDate>
+      <description><![CDATA[<p>gm everyone</p>]]></description>
+    </item>
+  </channel>
+</rss>

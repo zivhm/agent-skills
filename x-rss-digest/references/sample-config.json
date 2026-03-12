@@ -1,0 +1,38 @@
+{
+  "feeds": [
+    {
+      "handle": "macroalpha",
+      "rss_url": "sample_feed_macro.xml",
+      "tags": ["macro"],
+      "priority": 1,
+      "include_replies": false,
+      "include_retweets": false
+    },
+    {
+      "handle": "cryptobeta",
+      "rss_url": "sample_feed_crypto.xml",
+      "tags": ["crypto"],
+      "priority": 2,
+      "include_replies": false,
+      "include_retweets": false
+    }
+  ],
+  "filters": {
+    "min_chars": 25,
+    "drop_if_contains": [
+      "gm",
+      "good morning",
+      "airdrop",
+      "giveaway"
+    ],
+    "drop_if_startswith": [
+      "@"
+    ]
+  },
+  "output": {
+    "group_by": "tag",
+    "max_items": 20,
+    "max_per_group": 8,
+    "include_links": true
+  }
+}
